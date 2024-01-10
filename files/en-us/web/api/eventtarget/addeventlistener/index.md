@@ -261,7 +261,7 @@ shown in the following example:
 ```
 
 The value of `this` within `logID()` is a reference to the global
-object {{domxref("Window")}} (or `undefined` in the case of [strict mode](/en-US/docs/Web/JavaScript/Reference/Strict_mode).
+object {{domxref("Window")}} (or `undefined` in the case of [strict mode](/en-US/docs/Web/JavaScript/Reference/Strict_mode)).
 
 #### Specifying "this" using bind()
 
